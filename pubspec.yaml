@@ -1,0 +1,7 @@
+name: sha_benchmark
+description: A sample web application
+dependencies:
+  archive: any
+  benchmark_harness: any
+  browser: any
+  crypto: any
