@@ -5,8 +5,6 @@ import 'package:archive/archive.dart';
 import 'package:benchmark_harness/benchmark_harness.dart';
 import 'package:crypto/crypto.dart' as crypto;
 
-// U8IntList
-
 // Dart cmd-line:
 //inflate(RunTime)  :   4,044.4444444444443 us.
 //deflate(RunTime)  :  19,346.153846153848 us.
