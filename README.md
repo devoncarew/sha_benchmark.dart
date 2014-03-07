@@ -12,7 +12,7 @@ A benchmark for the Dart SHA implementation
 - deflate(RunTime)  :  21,351.063829787236 us.
 - plain sha(RunTime): 188,181.81818181818 us.
 
-** dart2js web:
+## dart2js web:
 - inflate(RunTime)  :   6,734.006734006734 us.
 - deflate(RunTime)  :  35,892.857142857145 us.
 - plain sha(RunTime): 280,500.0 us.
